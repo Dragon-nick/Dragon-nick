@@ -1,16 +1,14 @@
-### Hi there 👋
+- 👋 Hi, I’m Dragon
+- 💼 I'm a Junior Web developer
+- 🌱 I’m currently learning web development
 
-<!--
-**Dragon-nick/Dragon-nick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+![PHP](https://img.shields.io/static/v1?label=PHP&style=plastic&logo=php&color=informational&message=Junior)
+![MySQL](https://img.shields.io/static/v1?label=MySQL&style=plastic&logo=mysql&color=informational&message=Junior)
+![HTML](https://img.shields.io/static/v1?label=HTML&style=plastic&logo=html5&color=yellow&message=Middle)
+![CSS](https://img.shields.io/static/v1?label=CSS&style=plastic&logo=css3&color=yellow&message=Middle)
+![JavaScript](https://img.shields.io/static/v1?label=JavaScript&style=plastic&logo=javascript&color=yellow&message=Middle)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## IDE
+![VSCode](https://img.shields.io/static/v1?label=VSCode&style=plastic&logo=visualstudiocode&color=informational&message=Microsoft)
