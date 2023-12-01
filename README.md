@@ -9,6 +9,3 @@
 ![HTML](https://img.shields.io/static/v1?label=HTML&style=plastic&logo=html5&color=yellow&message=Middle)
 ![CSS](https://img.shields.io/static/v1?label=CSS&style=plastic&logo=css3&color=yellow&message=Middle)
 ![JavaScript](https://img.shields.io/static/v1?label=JavaScript&style=plastic&logo=javascript&color=yellow&message=Middle)
-
-## IDE
-![VSCode](https://img.shields.io/static/v1?label=VSCode&style=plastic&logo=visualstudiocode&color=informational&message=Microsoft)
